@@ -1867,6 +1867,17 @@ These plugins provide new markers or news ways of converting abstract data into 
 			<a href="https://github.com/coyotesqrl/">R.A. Porter</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FacilMap/Leaflet.HighlightableLayers">Leaflet.HighlightableLayers</a>
+		</td>
+		<td>
+		    Highlight Leaflet lines and polygons by adding a border and raising them above others. Add a transparent border to increase the tolerance for mouse/touch interactions.
+		</td>
+		<td>
+			<a href="https://github.com/cdauth/">Candid Dauth</a>
+		</td>
+	</tr>
 </table>
 
 
